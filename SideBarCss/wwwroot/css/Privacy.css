@@ -1,0 +1,16 @@
+﻿form {
+    margin-top: 25px;
+    text-align: center;
+}
+
+input {
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}
+
+output {
+    display: block;
+    margin: 25px auto;
+    font-size: 2em;
+}
